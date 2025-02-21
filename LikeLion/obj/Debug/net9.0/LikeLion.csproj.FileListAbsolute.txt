@@ -1,0 +1,15 @@
+c:\LikeLion\testproject\LikeLion\bin\Debug\net9.0\LikeLion.exe
+c:\LikeLion\testproject\LikeLion\bin\Debug\net9.0\LikeLion.deps.json
+c:\LikeLion\testproject\LikeLion\bin\Debug\net9.0\LikeLion.runtimeconfig.json
+c:\LikeLion\testproject\LikeLion\bin\Debug\net9.0\LikeLion.dll
+c:\LikeLion\testproject\LikeLion\bin\Debug\net9.0\LikeLion.pdb
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.GeneratedMSBuildEditorConfig.editorconfig
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.AssemblyInfoInputs.cache
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.AssemblyInfo.cs
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.csproj.CoreCompileInputs.cache
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.sourcelink.json
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.dll
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\refint\LikeLion.dll
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.pdb
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\LikeLion.genruntimeconfig.cache
+c:\LikeLion\testproject\LikeLion\obj\Debug\net9.0\ref\LikeLion.dll
