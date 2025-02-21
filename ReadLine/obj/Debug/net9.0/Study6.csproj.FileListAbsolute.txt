@@ -1,0 +1,15 @@
+c:\LikeLion\testproject\Study6\bin\Debug\net9.0\Study6.exe
+c:\LikeLion\testproject\Study6\bin\Debug\net9.0\Study6.deps.json
+c:\LikeLion\testproject\Study6\bin\Debug\net9.0\Study6.runtimeconfig.json
+c:\LikeLion\testproject\Study6\bin\Debug\net9.0\Study6.dll
+c:\LikeLion\testproject\Study6\bin\Debug\net9.0\Study6.pdb
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.GeneratedMSBuildEditorConfig.editorconfig
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.AssemblyInfoInputs.cache
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.AssemblyInfo.cs
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.csproj.CoreCompileInputs.cache
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.sourcelink.json
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.dll
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\refint\Study6.dll
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.pdb
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\Study6.genruntimeconfig.cache
+c:\LikeLion\testproject\Study6\obj\Debug\net9.0\ref\Study6.dll

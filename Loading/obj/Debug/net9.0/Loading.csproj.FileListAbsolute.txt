@@ -1,0 +1,15 @@
+c:\LikeLion\testproject\Loading\bin\Debug\net9.0\Loading.exe
+c:\LikeLion\testproject\Loading\bin\Debug\net9.0\Loading.deps.json
+c:\LikeLion\testproject\Loading\bin\Debug\net9.0\Loading.runtimeconfig.json
+c:\LikeLion\testproject\Loading\bin\Debug\net9.0\Loading.dll
+c:\LikeLion\testproject\Loading\bin\Debug\net9.0\Loading.pdb
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.GeneratedMSBuildEditorConfig.editorconfig
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.AssemblyInfoInputs.cache
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.AssemblyInfo.cs
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.csproj.CoreCompileInputs.cache
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.sourcelink.json
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.dll
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\refint\Loading.dll
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.pdb
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\Loading.genruntimeconfig.cache
+c:\LikeLion\testproject\Loading\obj\Debug\net9.0\ref\Loading.dll

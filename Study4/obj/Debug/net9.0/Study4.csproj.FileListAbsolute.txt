@@ -1,0 +1,15 @@
+c:\LikeLion\testproject\Study4\bin\Debug\net9.0\Study4.exe
+c:\LikeLion\testproject\Study4\bin\Debug\net9.0\Study4.deps.json
+c:\LikeLion\testproject\Study4\bin\Debug\net9.0\Study4.runtimeconfig.json
+c:\LikeLion\testproject\Study4\bin\Debug\net9.0\Study4.dll
+c:\LikeLion\testproject\Study4\bin\Debug\net9.0\Study4.pdb
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.GeneratedMSBuildEditorConfig.editorconfig
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.AssemblyInfoInputs.cache
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.AssemblyInfo.cs
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.csproj.CoreCompileInputs.cache
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.sourcelink.json
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.dll
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\refint\Study4.dll
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.pdb
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\Study4.genruntimeconfig.cache
+c:\LikeLion\testproject\Study4\obj\Debug\net9.0\ref\Study4.dll

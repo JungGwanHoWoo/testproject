@@ -1,0 +1,15 @@
+c:\LikeLion\testproject\Study5\bin\Debug\net9.0\Study5.exe
+c:\LikeLion\testproject\Study5\bin\Debug\net9.0\Study5.deps.json
+c:\LikeLion\testproject\Study5\bin\Debug\net9.0\Study5.runtimeconfig.json
+c:\LikeLion\testproject\Study5\bin\Debug\net9.0\Study5.dll
+c:\LikeLion\testproject\Study5\bin\Debug\net9.0\Study5.pdb
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.GeneratedMSBuildEditorConfig.editorconfig
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.AssemblyInfoInputs.cache
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.AssemblyInfo.cs
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.csproj.CoreCompileInputs.cache
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.sourcelink.json
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.dll
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\refint\Study5.dll
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.pdb
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\Study5.genruntimeconfig.cache
+c:\LikeLion\testproject\Study5\obj\Debug\net9.0\ref\Study5.dll
